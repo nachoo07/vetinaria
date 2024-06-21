@@ -1,5 +1,3 @@
-import React from 'react'
-import {Container, Row} from 'react-bootstrap'
 import '../footer/footer.css'
 
 const Footer = () => {
@@ -39,7 +37,6 @@ const Footer = () => {
             &copy; 2024 RollingMarket | Tenemos todo lo que necesitas -{" "}
             <a href="*">Política de privacidad</a>
           </p>
-
           <div className="col-12 col-md-4">
             <ul className="networkList">
               <li>
